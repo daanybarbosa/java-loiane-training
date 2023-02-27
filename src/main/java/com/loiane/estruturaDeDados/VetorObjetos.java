@@ -109,10 +109,6 @@ public class VetorObjetos {
 
     // ---------------------------------------------------------------------------------------------
     // ------------ Aula 09 - Remover elementos do vetor -------------------------------------------
-    // Remover o elemento "G" da posição 1
-    // B G D E F -> posição a ser removida é 1 (G)
-    // 0 1 2 3 4 -> tamanho é 5
-    // vetor[1] = vetor[2]; vetor[2] = vetor[3]; vetor[3] = vetor[4]
     public void remove(int posicao) {
 
         if (!(posicao > 0 && posicao < tamanho)) {

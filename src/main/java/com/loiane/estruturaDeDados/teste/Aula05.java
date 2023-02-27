@@ -14,7 +14,7 @@ public class Aula05 {
 
         System.out.println(vetor.busca(2));
         System.out.println(vetor.busca(5)); //null - exception
-        System.out.println(vetor.busca(15)); //exception
+        System.out.println(vetor.busca(15)); //exception - ArrayIndexOutOfBoundsException/IllegalArgumentException
 
     }
 }

@@ -8,6 +8,10 @@ public class Aula03 {
 
         Vetor vetor = new Vetor(2);
 
+        //Exemplo 1
+        /*vetor.adiciona("elemento 1");
+        System.out.println(vetor);*/
+
         //Adiciona o elemento no final do vetor, caso ultrapasse a qtde do vetor irá lançar uma exception
         /*try {
             vetor.adiciona("elemento 1");
@@ -16,10 +20,12 @@ public class Aula03 {
         } catch (Exception e){
             e.printStackTrace();
         }
-        System.out.println(vetor); */
+        System.out.println(vetor);*/
 
         vetor.adiciona("elemento 1");
         vetor.adiciona("elemento 2");
         vetor.adiciona("elemento 3");
+
+        System.out.println(vetor);
     }
 }

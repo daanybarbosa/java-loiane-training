@@ -16,13 +16,13 @@ public class Aula09 {
 
         System.out.println(vetor);
 
+        System.out.print("Remover o elemento na posição 1: ");
         vetor.remove(1);
         System.out.println(vetor);
 
-        System.out.println("Remover o elemento E");
-
-        int pos = vetor.busca("E");
-        //int pos = vetor.busca("A");
+        System.out.print("Remover o elemento E: ");
+        //int pos = vetor.busca("E");
+        int pos = vetor.busca("A");
 
         if (pos > -1){
             vetor.remove(pos);

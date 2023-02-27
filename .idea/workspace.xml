@@ -5,43 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="315b147a-9561-4307-ae6b-8ece0e91d408" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anotacoes/Java-basico.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anotacoes/java-estrutura-de-dados.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anotacoes/vetores.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/Aula01_HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/Aula02_Argumentos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/Aula03_EntendendoErros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/Aula04_IDE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/Aula05_Variaveis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/Aula06_TiposPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/Aula07_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/Aula08_OperadoresAritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/Aula09_OperadoresRelacionais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/Aula10_OperadoresLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/Aula11_IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/Aula19_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/labs/Aula05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/basico/labs/Aula06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/Vetor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/VetorObjetos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/labs/Exer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/labs/Exer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/labs/Exer03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/labs/Exer04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/labs/Exer05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/labs/Exer06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/labs/Exer07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/Vetor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/VetorObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/VetorObjetos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Contato.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +40,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1676236843" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1676236842" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -69,19 +76,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/danielebsilva/Estudos/Java/java-loiane-training&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/danielebsilva/Estudos/Java/java-loiane-training",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/anotacoes" />
@@ -91,13 +98,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula03">
-    <configuration name="Aula03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.loiane.estruturaDeDados.teste.Aula03" />
+  <component name="RunManager" selected="Application.Exer06">
+    <configuration name="Exer04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.loiane.estruturaDeDados.labs.Exer04" />
       <module name="java-loiane-training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.loiane.estruturaDeDados.teste.*" />
+          <option name="PATTERN" value="com.loiane.estruturaDeDados.labs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.loiane.estruturaDados.vetor.teste.Aula09" />
+    <configuration name="Exer05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.loiane.estruturaDeDados.labs.Exer05" />
       <module name="java-loiane-training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.loiane.estruturaDados.vetor.teste.*" />
+          <option name="PATTERN" value="com.loiane.estruturaDeDados.labs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.loiane.estruturaDados.vetor.teste.Aula10" />
+    <configuration name="Exer06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.loiane.estruturaDeDados.labs.Exer06" />
       <module name="java-loiane-training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.loiane.estruturaDados.vetor.teste.*" />
+          <option name="PATTERN" value="com.loiane.estruturaDeDados.labs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.loiane.estruturaDados.vetor.teste.Aula11" />
+    <configuration name="com.loiane.estruturaDeDados.labs.Exer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.loiane.estruturaDeDados.labs.Exer02" />
       <module name="java-loiane-training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.loiane.estruturaDados.vetor.teste.*" />
+          <option name="PATTERN" value="com.loiane.estruturaDeDados.labs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.loiane.estruturaDeDados.teste.Aula02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.loiane.estruturaDeDados.teste.Aula02" />
+    <configuration name="com.loiane.estruturaDeDados.labs.Exer03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.loiane.estruturaDeDados.labs.Exer03" />
       <module name="java-loiane-training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.loiane.estruturaDeDados.teste.*" />
+          <option name="PATTERN" value="com.loiane.estruturaDeDados.labs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aula03" />
-        <item itemvalue="Application.com.loiane.estruturaDeDados.teste.Aula02" />
-        <item itemvalue="Application.Aula11" />
-        <item itemvalue="Application.Aula10" />
-        <item itemvalue="Application.Aula09" />
+        <item itemvalue="Application.Exer06" />
+        <item itemvalue="Application.Exer05" />
+        <item itemvalue="Application.Exer04" />
+        <item itemvalue="Application.com.loiane.estruturaDeDados.labs.Exer03" />
+        <item itemvalue="Application.com.loiane.estruturaDeDados.labs.Exer02" />
       </list>
     </recent_temporary>
   </component>
@@ -197,8 +204,23 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/teste/Aula08.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="12" />
+          <line>16</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/labs/Exer03.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/Lista.java</url>
+          <line>194</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/loiane/estruturaDeDados/Lista.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
