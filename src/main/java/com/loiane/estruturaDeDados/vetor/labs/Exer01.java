@@ -1,6 +1,6 @@
-package com.loiane.estruturaDeDados.labs;
+package com.loiane.estruturaDeDados.vetor.labs;
 
-import com.loiane.estruturaDeDados.Lista;
+import com.loiane.estruturaDeDados.vetor.Lista;
 
 /**
  * link: https://www.slideshare.net/loianeg/exercicios-vetores-arrays-estruturas-de-dados-e-algoritmos-com-java

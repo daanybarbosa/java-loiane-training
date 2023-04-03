@@ -1,6 +1,6 @@
-package com.loiane.estruturaDeDados.labs;
+package com.loiane.estruturaDeDados.vetor.labs;
 
-import com.loiane.estruturaDeDados.Lista;
+import com.loiane.estruturaDeDados.vetor.Lista;
 
 /** Exercicio 3 - Método removeElemento
  * Melhore a classe Lista e implemente o método remove(T elemento), onde será possivel remover um

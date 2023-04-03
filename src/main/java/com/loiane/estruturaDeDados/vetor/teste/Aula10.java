@@ -1,6 +1,6 @@
-package com.loiane.estruturaDeDados.teste;
+package com.loiane.estruturaDeDados.vetor.teste;
 
-import com.loiane.estruturaDeDados.VetorObjetos;
+import com.loiane.estruturaDeDados.vetor.VetorObjetos;
 
 public class Aula10 {
 

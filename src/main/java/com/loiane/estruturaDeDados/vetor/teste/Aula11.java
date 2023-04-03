@@ -1,7 +1,7 @@
-package com.loiane.estruturaDeDados.teste;
+package com.loiane.estruturaDeDados.vetor.teste;
 
-import com.loiane.estruturaDeDados.Lista;
-import com.loiane.estruturaDeDados.VetorObjetos;
+import com.loiane.estruturaDeDados.vetor.Lista;
+import com.loiane.estruturaDeDados.vetor.VetorObjetos;
 
 // ---------------------------------------------------------------------------------------------
 // ------------ Aula 11 - Definindo o tipo de vetor dinamicamente ------------------------------

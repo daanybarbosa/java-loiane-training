@@ -1,7 +1,7 @@
-package com.loiane.estruturaDeDados.labs;
+package com.loiane.estruturaDeDados.vetor.labs;
 
-import com.loiane.estruturaDeDados.Lista;
-import com.loiane.estruturaDeDados.teste.Contato;
+import com.loiane.estruturaDeDados.vetor.Lista;
+import com.loiane.estruturaDeDados.vetor.teste.Contato;
 
 import java.util.Scanner;
 
@@ -23,7 +23,7 @@ public class Exer06 {
         //Criar vetor com 20 de capacidade
         Lista<Contato> lista = new Lista<>(20);//considerado a classe Lista por ser mais completa, tem generics e pode parametrizar o tipo dos dados
 
-        //Crfiar e adicionar 30 contatos
+        //Criar e adicionar 30 contatos
         criarContatosDinamicamente(5, lista);
 
         //Criar um menu para que o usuário escolha a opção
@@ -110,7 +110,7 @@ public class Exer06 {
         }
     }
 
-    private static void pesquisarContatoExiste(Scanner scanner, Lista<Contato> lista){
+    protected static void pesquisarContatoExiste(Scanner scanner, Lista<Contato> lista){
         int pos = leInformacaoInt("Entre com a posição a ser pesquisada: ", scanner);
 
         try {
@@ -128,7 +128,7 @@ public class Exer06 {
         }
     }
 
-    private static void pesquisarUltimoIndice(Scanner scanner, Lista<Contato> lista){
+    protected static void pesquisarUltimoIndice(Scanner scanner, Lista<Contato> lista){
         int pos = leInformacaoInt("Entre com a posiçao a ser pesquisada: ", scanner);
 
         try {
@@ -144,7 +144,7 @@ public class Exer06 {
         }
     }
 
-    private static void obtemContato(Scanner scanner, Lista<Contato> lista){
+    protected static void obtemContato(Scanner scanner, Lista<Contato> lista){
         int pos = leInformacaoInt("Entre com a posição a ser pesquisada", scanner);
 
         try {
@@ -160,7 +160,7 @@ public class Exer06 {
         }
     }
 
-    private static void obtemContatoPosicao(Scanner scanner, Lista<Contato> lista){
+    protected static void obtemContatoPosicao(Scanner scanner, Lista<Contato> lista){
         int pos = leInformacaoInt("Entre com a posição a ser pesquisada", scanner);
 
         try {
@@ -172,7 +172,7 @@ public class Exer06 {
         }
     }
 
-    private static void adicionarContatoFinal(Scanner scanner, Lista<Contato> lista){
+    protected static void adicionarContatoFinal(Scanner scanner, Lista<Contato> lista){
         System.out.println("Criando um contato, entre com as informações: ");
         String nome = leInformacao("Entre com o nome: ", scanner);
         String telefone = leInformacao("Entre com o telefone: ", scanner);
@@ -186,7 +186,7 @@ public class Exer06 {
         System.out.println(contato);
     }
 
-    private static void adicionarContatoPosicao(Scanner scanner, Lista<Contato> lista){
+    protected static void adicionarContatoPosicao(Scanner scanner, Lista<Contato> lista){
         System.out.println("Criando um contato, entre com as informações: ");
         String nome = leInformacao("Entre com o nome: ", scanner);
         String telefone = leInformacao("Entre com o telefone: ", scanner);
@@ -205,14 +205,14 @@ public class Exer06 {
         }
     }
 
-    private static String leInformacao(String msg, Scanner scanner){
+    protected static String leInformacao(String msg, Scanner scanner){
         System.out.println(msg);
         String entrada = scanner.nextLine();
 
         return entrada;
     }
 
-    private static int leInformacaoInt(String msg, Scanner scanner){
+    protected static int leInformacaoInt(String msg, Scanner scanner){
         //a entrada precisa ser um numero
         boolean entradaValida = false;
         int num = 0;
@@ -235,7 +235,7 @@ public class Exer06 {
 
 
     //Dependendo do numero escolhido, irá definir a opção no menu
-    private static int obterOpcaoMenu(Scanner scanner){
+    protected static int obterOpcaoMenu(Scanner scanner){
 
         boolean entradaValida = false;
         int opcao = 0;
@@ -274,7 +274,7 @@ public class Exer06 {
         return opcao;
     }
 
-    private static void criarContatosDinamicamente(int quantidade, Lista<Contato> lista){
+    protected static void criarContatosDinamicamente(int quantidade, Lista<Contato> lista){
 
         Contato contato;
 

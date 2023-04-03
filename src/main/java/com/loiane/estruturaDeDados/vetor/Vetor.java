@@ -1,6 +1,4 @@
-package com.loiane.estruturaDeDados;
-
-import java.util.Arrays;
+package com.loiane.estruturaDeDados.vetor;
 
 public class Vetor {
 

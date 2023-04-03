@@ -1,4 +1,4 @@
-package com.loiane.estruturaDeDados;
+package com.loiane.estruturaDeDados.vetor;
 
 import java.lang.reflect.Array;
 

@@ -1,4 +1,4 @@
-package com.loiane.estruturaDeDados.teste;
+package com.loiane.estruturaDeDados.vetor.teste;
 
 import java.util.Objects;
 

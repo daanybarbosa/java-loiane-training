@@ -1,4 +1,4 @@
-package com.loiane.estruturaDeDados;
+package com.loiane.estruturaDeDados.vetor;
 
 // ---------------------------------------------------------------------------------------------
 // ------------ Aula 10 - Generalizando o tipo do vetor ----------------------------------------
